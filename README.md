@@ -1,4 +1,4 @@
-# Database-Management-Systems
+# Clothing Store Data Management 
 Our project involves creating a website for three physical clothing stores.
 
 The main difference from the online stores we are used to seeing nowadays is that the
