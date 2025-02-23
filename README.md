@@ -8,6 +8,7 @@ go to the corresponding physical shop, try on the chosen clothes and eventually 
 In order to make a preliminary analysis of the data, we are going to create a database that
 will allow us to store and process the historical sales data of the fashion industry in a
 better way.
+
 <img width="416" alt="clothshop" src="https://github.com/user-attachments/assets/d6239eda-0239-46a2-ba55-285b673fb281" />
 
 # Demo
