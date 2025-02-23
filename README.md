@@ -9,7 +9,7 @@ In order to make a preliminary analysis of the data, we are going to create a da
 will allow us to store and process the historical sales data of the fashion industry in a
 better way.
 
-<img width="416" alt="clothshop" src="https://github.com/user-attachments/assets/d6239eda-0239-46a2-ba55-285b673fb281" />
+<img alt="clothshop" src="https://github.com/user-attachments/assets/d6239eda-0239-46a2-ba55-285b673fb281" />
 
 # Demo
 https://drive.google.com/file/d/14a4n5Yqf86thHF_Cu_AHmUV5g9Vcwsvj/view?usp=sharing
